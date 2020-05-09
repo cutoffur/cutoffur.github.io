@@ -1,0 +1,7 @@
+index.js/* 同じ階層にいないといけないhoge/style.cssにすればできる*/
+#foo {
+    color: blue;
+}
+*{
+    font-size: 60px;
+}
